@@ -80,23 +80,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please contact [rameshc182003@gmail.com](mailto:rameshc182003@gmail.com).
 
 ```
-
-### Notes:
-
-1. **Replace Placeholders:**
-   - `[https://github.com/Rameshcm581/Youtube-Streamlit.git](https://github.com/Rameshcm581/Youtube-Streamlit.git)` with your repository's URL.
-   - `app.py` with the name of your Streamlit script.
-   - `screenshot.png` with an actual screenshot of your application, if available.
-   - `rameshc182003@gmail.com` with your contact email.
-
-2. **Install `requirements.txt`:**
-   
-   **
-   pip install requirements.txt
-**
-
-
-This `README.md` provides clear instructions for users to understand, install, and use your YouTube video downloader application.

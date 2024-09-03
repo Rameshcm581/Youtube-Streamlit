@@ -21,8 +21,8 @@ This is a simple YouTube video downloader application built using Streamlit and 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/Rameshcm581/Youtube-Streamlit.git
+   cd Youtube-Streamlit
    ```
 
 2. **Create a Virtual Environment (optional but recommended)**
@@ -87,19 +87,16 @@ For any questions or feedback, please contact [your-email@example.com](mailto:yo
 ### Notes:
 
 1. **Replace Placeholders:**
-   - `https://github.com/your-username/your-repository.git` with your repository's URL.
+   - `[https://github.com/Rameshcm581/Youtube-Streamlit.git](https://github.com/Rameshcm581/Youtube-Streamlit.git)` with your repository's URL.
    - `app.py` with the name of your Streamlit script.
    - `screenshot.png` with an actual screenshot of your application, if available.
-   - `your-email@example.com` with your contact email.
+   - `rameshc182003@gmail.com` with your contact email.
 
-2. **Create `requirements.txt`:**
-   To generate a `requirements.txt` file with the necessary packages, run:
+2. **Install `requirements.txt`:**
+   
+   **
+   pip install requirements.txt
+**
 
-   ```bash
-   pip freeze > requirements.txt
-   ```
-
-3. **Add a License:**
-   If you're using a specific license, add the appropriate license file (`LICENSE`) to your repository.
 
 This `README.md` provides clear instructions for users to understand, install, and use your YouTube video downloader application.

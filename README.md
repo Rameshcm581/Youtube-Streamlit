@@ -68,7 +68,7 @@ This is a simple YouTube video downloader application built using Streamlit and 
 
 ## Example Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## Contributing
 
